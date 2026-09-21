@@ -128,3 +128,11 @@ I'm currently working on **Java, DSA, Web Development, and AI-related projects**
 **Actively maintained and updated with new Java problems and DSA solutions.**
 
 If you find this repository useful, feel free to ⭐ the repository.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0092-reverse-linked-list-ii) |
+<!---LeetCode Topics End-->
