@@ -140,4 +140,12 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
