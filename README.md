@@ -143,6 +143,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
@@ -154,6 +155,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -167,4 +169,8 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
