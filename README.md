@@ -149,6 +149,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +163,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -175,4 +177,20 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
