@@ -134,6 +134,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
