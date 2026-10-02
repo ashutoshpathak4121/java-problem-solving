@@ -152,6 +152,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 ## Bit Manipulation
 |  |
@@ -226,4 +227,8 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
