@@ -188,6 +188,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0022-generate-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,11 +228,13 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -240,6 +244,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
