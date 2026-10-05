@@ -220,6 +220,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,12 +230,14 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
