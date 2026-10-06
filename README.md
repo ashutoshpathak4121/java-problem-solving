@@ -256,4 +256,20 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
