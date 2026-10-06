@@ -238,6 +238,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
@@ -298,8 +299,10 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
