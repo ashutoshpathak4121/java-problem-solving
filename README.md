@@ -140,6 +140,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0086-partition-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
