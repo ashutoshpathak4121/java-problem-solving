@@ -158,6 +158,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -182,6 +183,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -262,6 +264,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -280,4 +283,5 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
