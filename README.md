@@ -158,6 +158,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
@@ -198,6 +199,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
