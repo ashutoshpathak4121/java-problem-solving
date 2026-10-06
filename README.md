@@ -232,6 +232,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -245,6 +246,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
