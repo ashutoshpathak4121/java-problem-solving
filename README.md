@@ -254,6 +254,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0225-implement-stack-using-queues) |
@@ -291,6 +292,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
@@ -301,6 +303,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
@@ -317,6 +320,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
