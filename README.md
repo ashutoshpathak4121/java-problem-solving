@@ -296,6 +296,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
@@ -306,6 +307,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0094-binary-tree-inorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
@@ -315,6 +317,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
@@ -324,6 +327,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0100-same-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
