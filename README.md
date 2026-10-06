@@ -310,6 +310,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0225-implement-stack-using-queues](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -317,4 +318,9 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
