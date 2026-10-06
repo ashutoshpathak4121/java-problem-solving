@@ -137,6 +137,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0024-swap-nodes-in-pairs](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -169,6 +170,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
