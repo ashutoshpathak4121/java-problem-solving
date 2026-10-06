@@ -155,6 +155,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
@@ -207,6 +208,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
@@ -332,4 +334,8 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
