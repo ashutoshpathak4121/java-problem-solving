@@ -140,6 +140,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0086-partition-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +158,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 ## Bit Manipulation
@@ -307,10 +309,12 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0155-min-stack](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
