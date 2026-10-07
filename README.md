@@ -301,6 +301,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -312,6 +313,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -335,6 +337,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 ## Design
 |  |
@@ -364,4 +367,8 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
