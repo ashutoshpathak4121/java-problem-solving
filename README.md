@@ -154,6 +154,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
@@ -189,6 +190,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
@@ -396,4 +398,8 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
