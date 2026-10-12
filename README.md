@@ -191,6 +191,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
