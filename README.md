@@ -155,6 +155,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0033-search-in-rotated-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
@@ -211,6 +212,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
@@ -290,6 +292,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
