@@ -177,6 +177,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +204,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
