@@ -166,6 +166,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
+| [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -222,6 +223,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -302,6 +304,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0022-generate-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
 ## Backtracking
 |  |
 | ------- |
