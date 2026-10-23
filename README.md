@@ -344,6 +344,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -360,6 +361,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -390,6 +392,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 ## Design
 |  |
@@ -490,4 +493,8 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
