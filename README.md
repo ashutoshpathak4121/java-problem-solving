@@ -164,6 +164,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
@@ -197,6 +198,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -239,6 +241,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
@@ -248,10 +251,12 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -461,8 +466,14 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
