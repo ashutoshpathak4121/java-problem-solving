@@ -169,6 +169,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
@@ -194,6 +195,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0086-partition-list](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
+| [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +207,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -228,6 +231,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
@@ -295,6 +299,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -488,6 +493,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1046-last-stone-weight) |
