@@ -168,6 +168,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0605-can-place-flowers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -199,6 +200,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -209,6 +211,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -252,6 +255,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -467,13 +471,23 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
