@@ -222,6 +222,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2409-count-days-spent-together](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
@@ -295,6 +296,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2409-count-days-spent-together](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
