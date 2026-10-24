@@ -218,6 +218,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -533,4 +534,12 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
