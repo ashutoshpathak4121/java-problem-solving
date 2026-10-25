@@ -220,6 +220,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0728-self-dividing-numbers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
