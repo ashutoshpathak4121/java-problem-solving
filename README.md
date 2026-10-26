@@ -220,6 +220,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -295,6 +296,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -539,6 +541,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
