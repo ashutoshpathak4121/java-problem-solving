@@ -175,6 +175,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -224,6 +225,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0728-self-dividing-numbers](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2409-count-days-spent-together](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
