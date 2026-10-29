@@ -177,6 +177,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [1046-last-stone-weight](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -471,6 +472,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1672-richest-customer-wealth) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
