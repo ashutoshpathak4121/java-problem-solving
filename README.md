@@ -535,6 +535,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
+| [1791-find-center-of-star-graph](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1791-find-center-of-star-graph) |
 ## Shortest Path
 |  |
 | ------- |
