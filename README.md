@@ -161,6 +161,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
@@ -385,6 +386,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -402,6 +404,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
@@ -453,6 +456,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -472,6 +476,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1672-richest-customer-wealth) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3882-minimum-xor-path-in-a-grid) |
