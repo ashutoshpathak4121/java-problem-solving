@@ -308,6 +308,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2409-count-days-spent-together](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2409-count-days-spent-together) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -513,6 +514,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1046-last-stone-weight) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -541,10 +543,12 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1791-find-center-of-star-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
