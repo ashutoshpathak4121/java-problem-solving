@@ -395,6 +395,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0543-diameter-of-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
+| [0841-keys-and-rooms](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -409,6 +410,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0513-find-bottom-left-tree-value](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
+| [0841-keys-and-rooms](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,6 +548,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
+| [0841-keys-and-rooms](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1791-find-center-of-star-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
