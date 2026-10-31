@@ -301,6 +301,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0020-valid-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0409-longest-palindrome) |
