@@ -178,6 +178,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -290,6 +291,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0347-top-k-frequent-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -400,6 +402,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0841-keys-and-rooms) |
+| [1267-count-servers-that-communicate](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -415,6 +418,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0841-keys-and-rooms) |
+| [1267-count-servers-that-communicate](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -463,6 +467,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -484,6 +489,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0048-rotate-image](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1672-richest-customer-wealth) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
