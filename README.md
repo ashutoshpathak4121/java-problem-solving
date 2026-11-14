@@ -184,6 +184,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
@@ -321,6 +322,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -345,6 +347,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
