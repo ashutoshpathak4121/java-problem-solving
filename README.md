@@ -246,6 +246,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -583,4 +584,8 @@ If you find this repository useful, feel free to ⭐ the repository.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
