@@ -380,6 +380,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -398,6 +399,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -418,6 +420,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0112-path-sum](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0617-merge-two-binary-trees) |
@@ -436,6 +439,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0145-binary-tree-postorder-traversal](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
