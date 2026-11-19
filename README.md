@@ -182,6 +182,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3364-minimum-positive-sum-subarray) |
@@ -220,6 +221,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0973-k-closest-points-to-origin) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -260,6 +262,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0621-task-scheduler](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1024-video-stitching](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1024-video-stitching) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
