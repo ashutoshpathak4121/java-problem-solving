@@ -241,6 +241,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2409-count-days-spent-together](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
@@ -593,6 +594,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0258-add-digits](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
