@@ -207,6 +207,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0088-merge-sorted-array](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0658-find-k-closest-elements) |
+| [1768-merge-strings-alternately](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -322,6 +323,7 @@ If you find this repository useful, feel free to ⭐ the repository.
 | [0678-valid-parenthesis-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/1768-merge-strings-alternately) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/2409-count-days-spent-together) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashutoshpathak4121/java-problem-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
